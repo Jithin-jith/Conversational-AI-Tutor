@@ -13,4 +13,6 @@ dependencies = [
     "python-dotenv>=1.1.1",
     "speechrecognition>=3.14.3",
     "streamlit>=1.49.1",
+    "streamlit-chat-widget>=0.2.0",
+    "streamlit-float>=0.3.5",
 ]
